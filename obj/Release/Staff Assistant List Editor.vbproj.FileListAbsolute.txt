@@ -1,0 +1,24 @@
+T:\GitHub\Staff-Assistant-List-Editor\bin\Release\Staff Assistant List Editor.exe.config
+T:\GitHub\Staff-Assistant-List-Editor\bin\Release\Staff Assistant List Editor.exe
+T:\GitHub\Staff-Assistant-List-Editor\bin\Release\Staff Assistant List Editor.pdb
+T:\GitHub\Staff-Assistant-List-Editor\bin\Release\Staff Assistant List Editor.xml
+T:\GitHub\Staff-Assistant-List-Editor\bin\Release\WizardFramework.xml
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.AboutBox.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.AddItemDialog.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.AddItemWizard.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.AddLocationDialog.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.AddLocationWizard.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.AddNPCDialog.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.AddNPCWizard.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.BuildingListDialog.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.EditItemDialog.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.EditLocationDialog.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.EditNPCDialog.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.Form1.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.HelpDialog.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.Resources.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff_Assistant_List_Editor.SavingListDialog.resources
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff Assistant List Editor.vbproj.GenerateResource.Cache
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff Assistant List Editor.exe
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff Assistant List Editor.xml
+T:\GitHub\Staff-Assistant-List-Editor\obj\Release\Staff Assistant List Editor.pdb

@@ -1,0 +1,54 @@
+bin\Debug\Nightscape Staff Assistant List Editor.exe
+bin\Debug\Nightscape Staff Assistant List Editor.pdb
+bin\Debug\Nightscape Staff Assistant List Editor.xml
+bin\Debug\WizardFramework.dll
+bin\Debug\WizardFramework.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.AddItemWizard.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.AddLocationWizard.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.AddNPCWizard.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.EditItemDialog.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.EditLocationDialog.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.EditNPCDialog.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.Form1.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.Resources.resources
+obj\Debug\Nightscape Staff Assistant List Editor.vbproj.GenerateResource.Cache
+obj\Debug\Nightscape Staff Assistant List Editor.exe
+obj\Debug\Nightscape Staff Assistant List Editor.xml
+obj\Debug\Nightscape Staff Assistant List Editor.pdb
+bin\Debug\Ultima.dll
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.BuildingListDialog.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.SavingListDialog.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.AddItemDialog.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.AddLocationDialog.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.AddNPCDialog.resources
+bin\Debug\Nightscape Staff Assistant List Editor.exe.config
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.AboutBox.resources
+obj\Debug\Nightscape_Staff_Assistant_List_Editor.HelpDialog.resources
+bin\Release\Nightscape Staff Assistant List Editor.exe.config
+bin\Release\Nightscape Staff Assistant List Editor.exe
+bin\Release\Nightscape Staff Assistant List Editor.pdb
+bin\Release\Nightscape Staff Assistant List Editor.xml
+bin\Release\Ultima.dll
+bin\Release\WizardFramework.dll
+bin\Release\WizardFramework.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Nightscape_Staff_Assistant_List_Editor.AboutBox.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.AddItemDialog.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.AddItemWizard.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.AddLocationDialog.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.AddLocationWizard.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.AddNPCDialog.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.AddNPCWizard.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.BuildingListDialog.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.EditItemDialog.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.EditLocationDialog.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.EditNPCDialog.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.Form1.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.HelpDialog.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.Resources.resources
+obj\Release\Nightscape_Staff_Assistant_List_Editor.SavingListDialog.resources
+obj\Release\Nightscape Staff Assistant List Editor.vbproj.GenerateResource.Cache
+obj\Release\Nightscape Staff Assistant List Editor.exe
+obj\Release\Nightscape Staff Assistant List Editor.xml
+obj\Release\Nightscape Staff Assistant List Editor.pdb

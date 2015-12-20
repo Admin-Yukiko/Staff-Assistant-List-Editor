@@ -1,0 +1,4 @@
+T:\GitHub\Staff-Assistant-List-Editor\bin\Debug\Nightscape Staff Assistant List Editor.exe.config
+T:\GitHub\Staff-Assistant-List-Editor\obj\Debug\Nightscape Staff Assistant List Editor.exe
+T:\GitHub\Staff-Assistant-List-Editor\obj\Debug\Nightscape Staff Assistant List Editor.xml
+T:\GitHub\Staff-Assistant-List-Editor\obj\Debug\Nightscape Staff Assistant List Editor.pdb
